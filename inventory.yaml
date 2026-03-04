@@ -1,0 +1,13 @@
+[all]
+testa.com
+testb.com
+testc.com
+
+[webserver]
+testb.com
+
+[nginx]
+testc.com
+
+[testing]
+testd.com
